@@ -121,19 +121,19 @@ author:
   links:
     - label: "ST-JAVA-SPRING-SQL"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-JAVA-SPRING-SQL"
+      url: "https://pluie7dev.github.io/ST-JAVA-SPRING-SQL"
     - label: "ST-SERVER-CONN"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-SERVER-CONN"
+      url: "https://pluie7dev.github.io/ST-SERVER-CONN"
     - label: "ST-ALG-KERAS"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-ALG-KERAS"
+      url: "https://pluie7dev.github.io/ST-ALG-KERAS"
     - label: "ST-VIEW"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-VIEW"
+      url: "https://pluie7dev.github.io/ST-VIEW"
     - label: "ST-PROJECT-TOOLS"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-PROJECT-TOOLS"
+      url: "https://pluie7dev.github.io/ST-PROJECT-TOOLS"
     
  
  
