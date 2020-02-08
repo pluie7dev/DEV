@@ -1,6 +1,4 @@
-
 disqus_ID : disqus_vvvEQyTWgg
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -18,7 +16,7 @@ disqus_ID : disqus_vvvEQyTWgg
 
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -114,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "STUDY"
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
                    
   
@@ -124,33 +122,17 @@ author:
     #  icon: "fas fa-fw fa-envelope-square"
       # url: mailto:pluie7j@gmail.com
     
-    
-
-
-- label: "ST-JAVA-SPRING-SQL"
+     
+    - label: "INVEST"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-
-- label: "ST-SERVER-CONN"
+      url: "https://pluie7dev.github.io/INVEST/"
+      
+    - label: "DEV"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-ALG-KERAS"
+      url: "https://pluie7dev.github.io/DEV/"  
+           
+    - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-VIEW"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-PROJECT-TOOLS"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-    
       url: "https://github.com/pluie7dev/private"
     
  
@@ -300,4 +282,3 @@ defaults:
       comments: # true
       share: # true
       related: true
-      
