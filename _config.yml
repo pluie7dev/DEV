@@ -1,3 +1,4 @@
+
 disqus_ID : disqus_vvvEQyTWgg
 # Welcome to Jekyll!
 #
@@ -125,26 +126,23 @@ author:
      
     - label: "ST-JAVA-SPRING-SQL"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-
-- label: "ST-SERVER-CONN"
+      url: "https://pluie7dev.github.io/ST-JAVA-SPRING-SQL"
+      
+    - label: "ST-SERVER-CONN"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-ALG-KERAS"
+      url: "https://pluie7dev.github.io/ST-SERVER-CONN"  
+           
+    - label: "ST-ALG-KERAS"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-VIEW"
+      url: "https://github.com/pluie7dev/ST-ALG-KERAS"
+          
+      - label: "ST-VIEW"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-PROJECT-TOOLS"
+      url: "https://github.com/pluie7dev/ST-VIEW"
+      
+      - label: "ST-PROJECT-TOOLS"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
+      url: "https://github.com/pluie7dev/ST-PROJECT-TOOLS"
     
  
  
@@ -293,3 +291,5 @@ defaults:
       comments: # true
       share: # true
       related: true
+      
+    
