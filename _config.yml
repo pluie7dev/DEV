@@ -130,9 +130,9 @@ author:
       
     - label: "ST-SERVER-CONN"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/ST-SERVER-CONN"  
-           
-    - label: "ST-ALG-KERAS"
+      url: "https://pluie7dev.github.io/ST-SERVER-CONN"
+      
+      - label: "ST-ALG-KERAS"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/pluie7dev/ST-ALG-KERAS"
           
