@@ -119,26 +119,22 @@ author:
   
  
   links:
-  
-      - label: "ST-JAVA-SPRING-SQL"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:pluie7j@gmail.com
+    
+     
+    - label: "INVEST"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/ST-JAVA-SPRING-SQL"
+      url: "https://pluie7dev.github.io/INVEST/"
       
-      - label: "ST-SERVER-CONN"
+    - label: "DEV"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/ST-SERVER-CONN"
-      
-      - label: "ST-ALG-KERAS"
+      url: "https://pluie7dev.github.io/DEV/"  
+           
+    - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-ALG-KERAS"
-          
-      - label: "ST-VIEW"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-VIEW"
-      
-      - label: "ST-PROJECT-TOOLS"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/ST-PROJECT-TOOLS"
+      url: "https://github.com/pluie7dev/private"
     
  
  
